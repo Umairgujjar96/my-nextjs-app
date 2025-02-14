@@ -7,11 +7,13 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      screens: {
+        xs: "300px",
+      },
+      fontFamily: {
+        bebas: ["Bebas Neue", "cursive"],
       },
     },
+    plugins: [],
   },
-  plugins: [],
 };
