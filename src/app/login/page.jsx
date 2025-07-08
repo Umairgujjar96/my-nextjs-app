@@ -6,11 +6,6 @@ const page = () => {
     <div>
         <Login />
     </div>
-
-
-
-
-
     
   )
 }
