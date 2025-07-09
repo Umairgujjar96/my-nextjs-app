@@ -8,9 +8,6 @@ const page = () => {
         <Login />
     </div>
 
-
-
-
     
     
   )
